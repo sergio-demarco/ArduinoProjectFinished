@@ -10,4 +10,4 @@ void loop ()
   delay (1000);
   digitalWrite (relay, LOW); // relay switch is turned off;
   delay (1000);
-}
+}1
